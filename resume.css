@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #b8bbc0;
+}
+
+table {
+    width: 700px;
+    height: 800px;
+    align-self: center;
+}
+
+td {
+    width: 200px;
+    background-color: #1c2833;
+    color: white;
+    padding: 20px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+main {
+    background-color: red;
+}
